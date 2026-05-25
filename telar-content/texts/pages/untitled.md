@@ -1,0 +1,5 @@
+---
+title: "Conclusion"
+---
+
+**Across my observations, I found that love at UCSB is often quiet, practical, and embedded in everyday routines. In the library, love appeared as devotion and shared academic discipline. At the outdoor table, it appeared through friendship, conversation, and companionship. In the meal photo, it appeared through humor, food, and everyday care. In the graduation image, it appeared through support, trust, and partnership. Together, these examples show that love is not limited to romance. Instead, love can be understood as a form of connection that helps students deal with stress, loneliness, and transition. My field experience taught me that community is built through small acts: studying near others, sharing food, making time for friends, and supporting one another through important life moments. These observations confirm the Unit 2 idea that love is not only a feeling, but also a practice. At UCSB, love often works quietly, yet it still shapes how students belong, care, and move forward together.**

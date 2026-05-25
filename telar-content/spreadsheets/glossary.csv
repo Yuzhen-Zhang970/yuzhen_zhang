@@ -1,7 +1,14 @@
 term_id,title,definition
-id_término,titulo,definición
-# Make it lower-case and avoid spaces.,# Please provide a title — this is required.,"Panel content: write text here, paste markdown, or the name of an .md file in /components/texts/glossary/ (the .md extension is required)"
-# Escríbelo en minúsculas y sin espacios.,# Incluye un título: este campo es obligatorio.,"Contenido del panel: escribe texto aquí, pega markdown, o indica un archivo archivo .md en /components/texts/glossary/ (la extensión .md es obligatoria)"
-telar,Telar,"Telar is minimal-computing framework for creating layered IIIF visual narratives for digital scholarship, public exhibitions, community storytelling, and classroom projects. Learn more at [Telar.org](https://telar.org)
+telar,"Telar","Telar is minimal-computing framework for creating layered IIIF visual narratives for digital scholarship, public exhibitions, community storytelling, and classroom projects. Learn more at [Telar.org](https://telar.org)
 
 Telar es un marco de computación mínima para crear narrativas visuales con capas de texto e imágenes IIIF para humanidades digitales, exposiciones públicas y contextos educativos y comunitarios. Aprende más en [Telar.org](https://telar.org)"
+untitled-term,"Love","Love is a form of emotional connection, care, and commitment that can appear through friendship, family, romance, community support, and everyday actions."
+friendship,"Friendship","Friendship is a relationship based on trust, companionship, shared time, and emotional support. In this exhibition, friendship appears through conversation, food, humor, and presence."
+vulnerability,"Vulnerability","Vulnerability means being open enough to share feelings, needs, uncertainty, or personal experiences with others. It can help people build deeper relationships."
+intimacy,"Intimacy","Intimacy is emotional closeness between people. It does not only refer to romance; it can also appear through trust, honest conversation, and shared experience."
+belonging,"Belonging","Belonging is the feeling of being accepted and connected to a group or community. At UCSB, belonging can be created through shared spaces, friendship, and care."
+70849e23-a865-4cb4-b4ca-93625f2d704d,"Companionship","Companionship means being with another person in a way that provides comfort, attention, and support. It often appears in ordinary moments like eating, studying, or talking together."
+devotion,"Devotion","Devotion is a strong commitment to someone or something. In this exhibition, devotion appears through academic effort, shared goals, and the willingness to support others over time."
+reciprocity,"Reciprocity","Reciprocity means mutual exchange in a relationship. It suggests that love and care are not one-sided but are built through giving, receiving, and responding to each other."
+partnership,"Partnership","Partnership is a relationship in which people support each other, share experiences, and move through challenges together."
+untitled-term,"Connection","Connection is the sense of closeness or relationship between people. It can be created through conversation, shared space, trust, and repeated acts of care."
