@@ -8,6 +8,9 @@ menu:
   - title_en: "Works Cited"
     titulo_es: "Works Cited"
     url: /works-cited/
-  - title_en: "I"
-    titulo_es: "I"
+  - title_en: "It"
+    titulo_es: "It"
     url: /i/
+  - title_en: "Con"
+    titulo_es: "Con"
+    url: /con/
